@@ -1,0 +1,10 @@
+import pyautogui
+pyautogui.moveTo(953,1055, duration=2)
+pyautogui.click()
+pyautogui.moveTo(1891,60, duration=2)
+pyautogui.click()
+pyautogui.moveTo(1885,210, duration=2)
+pyautogui.click()
+pyautogui.moveTo(1500,210, duration=2)
+pyautogui.moveTo(1500,285, duration=2)
+pyautogui.click()
