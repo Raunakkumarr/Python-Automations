@@ -1,7 +1,7 @@
 # Python-Automations
 # Check out all my python automation specific projects in this repository.
 ## I summed up all my python automation projects in this single repository and the general overview goes like this:
-You'll find various directories in this repository master branch, each directories are arranged as per the function of th peojects.
+You'll find various directories in this repository master branch, each directories are arranged as per the function of the projects.
 Each different directories contains a main or subsidiary python files with all necessary codes to run the program, a requirements.txt file that contains the list of required python libraries and also README.rd file wherever more insturction on the program is required.
 ### General Project Description goes likes this.
 1. Automate Sending Emails: This directory contains the files and codes required to send bulk emails automatically with the help of python.
